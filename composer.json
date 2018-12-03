@@ -1,0 +1,10 @@
+{
+    "name": "vladimirbiro/tinymce",
+    "authors": [
+        {
+            "name": "Vladimir Biro",
+            "email": "vladimir.biro@gmail.com"
+        }
+    ],
+    "require": {}
+}
